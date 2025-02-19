@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS,Cloud**
 
-- 👨‍💻 All of my projects are available at [slehdine-bouchoucha.netlify.app](slehdine-bouchoucha.netlify.app)
+- 👨‍💻 All of my projects are available at ([slehdine-bouchoucha.netlify.app](https://slehdine-bouchoucha.netlify.app))
 
 - 💬 Ask me about **JS,C#,NodeJs,ReactJs**
 
