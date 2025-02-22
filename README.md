@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p>My Skills</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bitbucket,bootstrap,cs,dotnet,css,cypress,docker,elasticsearch,express,git,github,gitlab,jest,mongodb,mysql,nodejs,npm,notion,postgres,postman,react,tailwind,ts,visualstudio,vite)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slehdine-bouchoucha&show_icons=true&locale=en&layout=compact" alt="slehdine-bouchoucha" /></p>
 
