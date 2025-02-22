@@ -22,11 +22,7 @@
 </p>
 <p>My Skills</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slehdine-bouchoucha&show_icons=true&locale=en&layout=compact" alt="slehdine-bouchoucha" /></p>
 
