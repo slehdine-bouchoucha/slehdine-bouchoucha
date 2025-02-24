@@ -24,6 +24,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bitbucket,bootstrap,cs,dotnet,cypress,docker,elasticsearch,express,git,github,gitlab,jest,mongodb,mysql,nodejs,npm,notion,postgres,postman,react,tailwind,ts,visualstudio,vite)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slehdine-bouchoucha&show_icons=true&locale=en&layout=compact" alt="slehdine-bouchoucha" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=slehdine-bouchoucha&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=slehdine-bouchoucha&count_private=true&layout=compact&theme=radical)" alt="slehdine-bouchoucha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slehdine-bouchoucha&" alt="slehdine-bouchoucha" /></p>
