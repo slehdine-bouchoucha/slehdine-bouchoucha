@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sleh dine</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
-<h1 align="center">01001000 01101001 01110010 01100101 00100000 01101101 01100101</h1>
+<h1 align="center">01010100 01100101 01100011 01101000 00100000 01010111 01101001 01111010 01100001 01110010 01100100
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slehdine-bouchoucha&label=Profile%20views&color=0e75b6&style=flat" alt="slehdine-bouchoucha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
